@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Утренняя зарядка",
+    "completed": false
+  },
+  {
+    "name": "Чтение 15 минут",
+    "completed": false
+  },
+  {
+    "name": "Выпить 2л воды",
+    "completed": false
+  },
+  {
+    "name": "Погладить кота",
+    "completed": false
+  }
+]
